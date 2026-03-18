@@ -1,0 +1,251 @@
+product_id,product_name,category,brand,list_price
+P200000,Hooli Beauty Item 1,Beauty,Hooli,148.21
+P200001,Acme Sports Item 2,Sports,Acme,7.35
+P200002,Globex Books Item 3,Books,Globex,25.36
+P200003,Umbrella Sports Item 4,Sports,Umbrella,127.18
+P200004,Stark Pet Supplies Item 5,Pet Supplies,Stark,51.97
+P200005,Hooli Books Item 6,Books,Hooli,26.59
+P200006,Umbrella Fashion Item 7,Fashion,Umbrella,195.83
+P200007,Acme Sports Item 8,Sports,Acme,73.86
+P200008,Umbrella Sports Item 9,Sports,Umbrella,23.98
+P200009,Stark Sports Item 10,Sports,Stark,12.5
+P200010,Wayne Toys & Games Item 11,Toys & Games,Wayne,142.09
+P200011,Wonka Sports Item 12,Sports,Wonka,43.54
+P200012,Initech Sports Item 13,Sports,Initech,78.09
+P200013,Wonka Electronics Item 14,Electronics,Wonka,95.29
+P200014,Wonka Grocery & Gourmet Item 15,Grocery & Gourmet,Wonka,66.43
+P200015,Hooli Beauty Item 16,Beauty,Hooli,139.87
+P200016,Wayne Electronics Item 17,Electronics,Wayne,414.37
+P200017,Tyrell Beauty Item 18,Beauty,Tyrell,145.81
+P200018,Initech Beauty Item 19,Beauty,Initech,42.53
+P200019,Hooli Electronics Item 20,Electronics,Hooli,416.02
+P200020,Acme Pet Supplies Item 21,Pet Supplies,Acme,129.63
+P200021,Globex Home & Kitchen Item 22,Home & Kitchen,Globex,70.0
+P200022,Tyrell Fashion Item 23,Fashion,Tyrell,63.1
+P200023,Stark Beauty Item 24,Beauty,Stark,129.04
+P200024,Wonka Automotive Item 25,Automotive,Wonka,123.07
+P200025,Wonka Grocery & Gourmet Item 26,Grocery & Gourmet,Wonka,81.95
+P200026,Wonka Grocery & Gourmet Item 27,Grocery & Gourmet,Wonka,146.6
+P200027,Initech Home & Kitchen Item 28,Home & Kitchen,Initech,32.04
+P200028,Globex Automotive Item 29,Automotive,Globex,97.41
+P200029,Acme Automotive Item 30,Automotive,Acme,19.01
+P200030,Tyrell Beauty Item 31,Beauty,Tyrell,61.82
+P200031,Initech Toys & Games Item 32,Toys & Games,Initech,34.03
+P200032,Wayne Electronics Item 33,Electronics,Wayne,552.03
+P200033,Stark Grocery & Gourmet Item 34,Grocery & Gourmet,Stark,31.29
+P200034,Globex Pet Supplies Item 35,Pet Supplies,Globex,102.85
+P200035,Stark Beauty Item 36,Beauty,Stark,43.2
+P200036,Acme Toys & Games Item 37,Toys & Games,Acme,56.51
+P200037,Globex Beauty Item 38,Beauty,Globex,55.58
+P200038,Globex Electronics Item 39,Electronics,Globex,580.48
+P200039,Tyrell Sports Item 40,Sports,Tyrell,72.64
+P200040,Wayne Grocery & Gourmet Item 41,Grocery & Gourmet,Wayne,57.39
+P200041,Aperture Pet Supplies Item 42,Pet Supplies,Aperture,128.63
+P200042,Stark Pet Supplies Item 43,Pet Supplies,Stark,87.93
+P200043,Initech Beauty Item 44,Beauty,Initech,36.01
+P200044,Wonka Pet Supplies Item 45,Pet Supplies,Wonka,135.51
+P200045,Aperture Toys & Games Item 46,Toys & Games,Aperture,54.68
+P200046,Wayne Sports Item 47,Sports,Wayne,10.65
+P200047,Acme Sports Item 48,Sports,Acme,76.72
+P200048,Umbrella Pet Supplies Item 49,Pet Supplies,Umbrella,22.97
+P200049,Aperture Grocery & Gourmet Item 50,Grocery & Gourmet,Aperture,39.58
+P200050,Wayne Books Item 51,Books,Wayne,38.62
+P200051,Aperture Electronics Item 52,Electronics,Aperture,126.33
+P200052,Wayne Beauty Item 53,Beauty,Wayne,122.01
+P200053,Acme Toys & Games Item 54,Toys & Games,Acme,140.85
+P200054,Tyrell Sports Item 55,Sports,Tyrell,92.95
+P200055,Hooli Beauty Item 56,Beauty,Hooli,108.0
+P200056,Hooli Toys & Games Item 57,Toys & Games,Hooli,108.47
+P200057,Aperture Pet Supplies Item 58,Pet Supplies,Aperture,148.96
+P200058,Globex Fashion Item 59,Fashion,Globex,74.89
+P200059,Aperture Beauty Item 60,Beauty,Aperture,28.61
+P200060,Initech Toys & Games Item 61,Toys & Games,Initech,80.28
+P200061,Aperture Beauty Item 62,Beauty,Aperture,82.32
+P200062,Globex Pet Supplies Item 63,Pet Supplies,Globex,30.8
+P200063,Wayne Pet Supplies Item 64,Pet Supplies,Wayne,93.9
+P200064,Hooli Toys & Games Item 65,Toys & Games,Hooli,7.05
+P200065,Acme Beauty Item 66,Beauty,Acme,139.51
+P200066,Acme Toys & Games Item 67,Toys & Games,Acme,43.36
+P200067,Tyrell Books Item 68,Books,Tyrell,6.78
+P200068,Acme Beauty Item 69,Beauty,Acme,20.7
+P200069,Wonka Home & Kitchen Item 70,Home & Kitchen,Wonka,39.84
+P200070,Aperture Books Item 71,Books,Aperture,17.33
+P200071,Wonka Electronics Item 72,Electronics,Wonka,50.43
+P200072,Stark Toys & Games Item 73,Toys & Games,Stark,45.51
+P200073,Stark Electronics Item 74,Electronics,Stark,174.53
+P200074,Wonka Sports Item 75,Sports,Wonka,59.9
+P200075,Wayne Beauty Item 76,Beauty,Wayne,60.85
+P200076,Wayne Fashion Item 77,Fashion,Wayne,74.41
+P200077,Globex Grocery & Gourmet Item 78,Grocery & Gourmet,Globex,52.55
+P200078,Wonka Toys & Games Item 79,Toys & Games,Wonka,18.01
+P200079,Hooli Grocery & Gourmet Item 80,Grocery & Gourmet,Hooli,8.65
+P200080,Hooli Grocery & Gourmet Item 81,Grocery & Gourmet,Hooli,34.31
+P200081,Acme Electronics Item 82,Electronics,Acme,611.4
+P200082,Hooli Home & Kitchen Item 83,Home & Kitchen,Hooli,148.67
+P200083,Hooli Toys & Games Item 84,Toys & Games,Hooli,139.64
+P200084,Globex Pet Supplies Item 85,Pet Supplies,Globex,78.11
+P200085,Tyrell Books Item 86,Books,Tyrell,28.93
+P200086,Wayne Books Item 87,Books,Wayne,19.16
+P200087,Stark Pet Supplies Item 88,Pet Supplies,Stark,117.22
+P200088,Hooli Pet Supplies Item 89,Pet Supplies,Hooli,115.89
+P200089,Wayne Books Item 90,Books,Wayne,42.99
+P200090,Wayne Beauty Item 91,Beauty,Wayne,134.85
+P200091,Umbrella Sports Item 92,Sports,Umbrella,67.98
+P200092,Aperture Books Item 93,Books,Aperture,39.51
+P200093,Aperture Fashion Item 94,Fashion,Aperture,163.22
+P200094,Globex Fashion Item 95,Fashion,Globex,68.61
+P200095,Hooli Sports Item 96,Sports,Hooli,139.74
+P200096,Acme Fashion Item 97,Fashion,Acme,27.92
+P200097,Umbrella Beauty Item 98,Beauty,Umbrella,149.17
+P200098,Aperture Home & Kitchen Item 99,Home & Kitchen,Aperture,116.66
+P200099,Globex Grocery & Gourmet Item 100,Grocery & Gourmet,Globex,18.52
+P200100,Umbrella Books Item 101,Books,Umbrella,34.53
+P200101,Initech Home & Kitchen Item 102,Home & Kitchen,Initech,9.96
+P200102,Hooli Home & Kitchen Item 103,Home & Kitchen,Hooli,116.68
+P200103,Stark Pet Supplies Item 104,Pet Supplies,Stark,120.89
+P200104,Wayne Pet Supplies Item 105,Pet Supplies,Wayne,92.35
+P200105,Aperture Toys & Games Item 106,Toys & Games,Aperture,129.24
+P200106,Wayne Books Item 107,Books,Wayne,9.4
+P200107,Hooli Grocery & Gourmet Item 108,Grocery & Gourmet,Hooli,45.01
+P200108,Acme Beauty Item 109,Beauty,Acme,65.06
+P200109,Initech Automotive Item 110,Automotive,Initech,22.31
+P200110,Aperture Fashion Item 111,Fashion,Aperture,95.16
+P200111,Tyrell Pet Supplies Item 112,Pet Supplies,Tyrell,43.46
+P200112,Wonka Automotive Item 113,Automotive,Wonka,123.89
+P200113,Umbrella Home & Kitchen Item 114,Home & Kitchen,Umbrella,66.64
+P200114,Globex Grocery & Gourmet Item 115,Grocery & Gourmet,Globex,132.51
+P200115,Tyrell Home & Kitchen Item 116,Home & Kitchen,Tyrell,44.2
+P200116,Hooli Fashion Item 117,Fashion,Hooli,179.81
+P200117,Initech Home & Kitchen Item 118,Home & Kitchen,Initech,66.77
+P200118,Wayne Sports Item 119,Sports,Wayne,52.53
+P200119,Wonka Home & Kitchen Item 120,Home & Kitchen,Wonka,77.86
+P200120,Stark Sports Item 121,Sports,Stark,65.57
+P200121,Aperture Toys & Games Item 122,Toys & Games,Aperture,42.32
+P200122,Globex Grocery & Gourmet Item 123,Grocery & Gourmet,Globex,77.89
+P200123,Initech Pet Supplies Item 124,Pet Supplies,Initech,27.01
+P200124,Acme Electronics Item 125,Electronics,Acme,297.75
+P200125,Wonka Pet Supplies Item 126,Pet Supplies,Wonka,87.04
+P200126,Wonka Books Item 127,Books,Wonka,23.6
+P200127,Aperture Toys & Games Item 128,Toys & Games,Aperture,124.47
+P200128,Wayne Fashion Item 129,Fashion,Wayne,58.78
+P200129,Globex Sports Item 130,Sports,Globex,145.62
+P200130,Stark Grocery & Gourmet Item 131,Grocery & Gourmet,Stark,118.78
+P200131,Acme Automotive Item 132,Automotive,Acme,290.6
+P200132,Wonka Beauty Item 133,Beauty,Wonka,126.53
+P200133,Wonka Pet Supplies Item 134,Pet Supplies,Wonka,25.61
+P200134,Tyrell Fashion Item 135,Fashion,Tyrell,110.03
+P200135,Umbrella Home & Kitchen Item 136,Home & Kitchen,Umbrella,29.65
+P200136,Umbrella Fashion Item 137,Fashion,Umbrella,165.46
+P200137,Acme Toys & Games Item 138,Toys & Games,Acme,89.7
+P200138,Stark Sports Item 139,Sports,Stark,43.2
+P200139,Stark Automotive Item 140,Automotive,Stark,279.58
+P200140,Hooli Home & Kitchen Item 141,Home & Kitchen,Hooli,21.7
+P200141,Hooli Fashion Item 142,Fashion,Hooli,117.13
+P200142,Globex Pet Supplies Item 143,Pet Supplies,Globex,109.55
+P200143,Initech Beauty Item 144,Beauty,Initech,13.53
+P200144,Wayne Home & Kitchen Item 145,Home & Kitchen,Wayne,91.69
+P200145,Umbrella Pet Supplies Item 146,Pet Supplies,Umbrella,123.31
+P200146,Acme Beauty Item 147,Beauty,Acme,14.79
+P200147,Tyrell Pet Supplies Item 148,Pet Supplies,Tyrell,79.28
+P200148,Hooli Pet Supplies Item 149,Pet Supplies,Hooli,42.49
+P200149,Wayne Pet Supplies Item 150,Pet Supplies,Wayne,101.12
+P200150,Umbrella Toys & Games Item 151,Toys & Games,Umbrella,22.21
+P200151,Tyrell Grocery & Gourmet Item 152,Grocery & Gourmet,Tyrell,140.87
+P200152,Acme Pet Supplies Item 153,Pet Supplies,Acme,134.74
+P200153,Stark Home & Kitchen Item 154,Home & Kitchen,Stark,31.97
+P200154,Tyrell Electronics Item 155,Electronics,Tyrell,275.53
+P200155,Aperture Fashion Item 156,Fashion,Aperture,121.65
+P200156,Initech Sports Item 157,Sports,Initech,109.12
+P200157,Wonka Toys & Games Item 158,Toys & Games,Wonka,69.19
+P200158,Globex Electronics Item 159,Electronics,Globex,146.13
+P200159,Globex Toys & Games Item 160,Toys & Games,Globex,20.1
+P200160,Umbrella Books Item 161,Books,Umbrella,49.99
+P200161,Tyrell Toys & Games Item 162,Toys & Games,Tyrell,71.03
+P200162,Wonka Toys & Games Item 163,Toys & Games,Wonka,131.52
+P200163,Stark Sports Item 164,Sports,Stark,74.94
+P200164,Initech Beauty Item 165,Beauty,Initech,138.74
+P200165,Globex Beauty Item 166,Beauty,Globex,17.73
+P200166,Initech Sports Item 167,Sports,Initech,21.53
+P200167,Globex Grocery & Gourmet Item 168,Grocery & Gourmet,Globex,139.8
+P200168,Globex Automotive Item 169,Automotive,Globex,284.77
+P200169,Wonka Fashion Item 170,Fashion,Wonka,69.8
+P200170,Globex Beauty Item 171,Beauty,Globex,56.5
+P200171,Acme Fashion Item 172,Fashion,Acme,95.97
+P200172,Wayne Toys & Games Item 173,Toys & Games,Wayne,65.34
+P200173,Initech Books Item 174,Books,Initech,13.55
+P200174,Stark Beauty Item 175,Beauty,Stark,135.26
+P200175,Globex Books Item 176,Books,Globex,16.4
+P200176,Initech Toys & Games Item 177,Toys & Games,Initech,107.26
+P200177,Stark Automotive Item 178,Automotive,Stark,29.48
+P200178,Wonka Pet Supplies Item 179,Pet Supplies,Wonka,10.62
+P200179,Stark Beauty Item 180,Beauty,Stark,99.79
+P200180,Wayne Electronics Item 181,Electronics,Wayne,287.74
+P200181,Wayne Home & Kitchen Item 182,Home & Kitchen,Wayne,100.04
+P200182,Initech Books Item 183,Books,Initech,9.23
+P200183,Initech Grocery & Gourmet Item 184,Grocery & Gourmet,Initech,142.73
+P200184,Stark Pet Supplies Item 185,Pet Supplies,Stark,113.53
+P200185,Acme Toys & Games Item 186,Toys & Games,Acme,132.06
+P200186,Wonka Books Item 187,Books,Wonka,11.14
+P200187,Wonka Electronics Item 188,Electronics,Wonka,273.12
+P200188,Umbrella Pet Supplies Item 189,Pet Supplies,Umbrella,58.41
+P200189,Umbrella Fashion Item 190,Fashion,Umbrella,112.06
+P200190,Umbrella Books Item 191,Books,Umbrella,18.36
+P200191,Wonka Books Item 192,Books,Wonka,7.73
+P200192,Hooli Home & Kitchen Item 193,Home & Kitchen,Hooli,58.49
+P200193,Globex Sports Item 194,Sports,Globex,41.91
+P200194,Stark Automotive Item 195,Automotive,Stark,121.92
+P200195,Acme Home & Kitchen Item 196,Home & Kitchen,Acme,33.56
+P200196,Stark Sports Item 197,Sports,Stark,42.97
+P200197,Initech Electronics Item 198,Electronics,Initech,510.89
+P200198,Umbrella Electronics Item 199,Electronics,Umbrella,325.82
+P200199,Stark Electronics Item 200,Electronics,Stark,292.67
+P200200,Umbrella Pet Supplies Item 201,Pet Supplies,Umbrella,82.42
+P200201,Umbrella Toys & Games Item 202,Toys & Games,Umbrella,116.92
+P200202,Hooli Automotive Item 203,Automotive,Hooli,119.87
+P200203,Tyrell Electronics Item 204,Electronics,Tyrell,480.33
+P200204,Acme Electronics Item 205,Electronics,Acme,773.81
+P200205,Umbrella Automotive Item 206,Automotive,Umbrella,161.37
+P200206,Tyrell Books Item 207,Books,Tyrell,45.94
+P200207,Wayne Books Item 208,Books,Wayne,40.72
+P200208,Initech Toys & Games Item 209,Toys & Games,Initech,13.51
+P200209,Wayne Sports Item 210,Sports,Wayne,67.22
+P200210,Globex Home & Kitchen Item 211,Home & Kitchen,Globex,106.26
+P200211,Acme Beauty Item 212,Beauty,Acme,148.07
+P200212,Wonka Sports Item 213,Sports,Wonka,71.46
+P200213,Wayne Beauty Item 214,Beauty,Wayne,18.45
+P200214,Hooli Fashion Item 215,Fashion,Hooli,116.78
+P200215,Umbrella Electronics Item 216,Electronics,Umbrella,123.09
+P200216,Tyrell Beauty Item 217,Beauty,Tyrell,113.97
+P200217,Stark Automotive Item 218,Automotive,Stark,157.23
+P200218,Hooli Sports Item 219,Sports,Hooli,109.9
+P200219,Globex Automotive Item 220,Automotive,Globex,262.11
+P200220,Acme Books Item 221,Books,Acme,33.3
+P200221,Hooli Electronics Item 222,Electronics,Hooli,499.64
+P200222,Tyrell Toys & Games Item 223,Toys & Games,Tyrell,114.41
+P200223,Aperture Books Item 224,Books,Aperture,42.91
+P200224,Umbrella Toys & Games Item 225,Toys & Games,Umbrella,131.01
+P200225,Acme Pet Supplies Item 226,Pet Supplies,Acme,10.28
+P200226,Aperture Fashion Item 227,Fashion,Aperture,115.68
+P200227,Wonka Toys & Games Item 228,Toys & Games,Wonka,36.36
+P200228,Initech Sports Item 229,Sports,Initech,129.75
+P200229,Hooli Books Item 230,Books,Hooli,34.18
+P200230,Aperture Automotive Item 231,Automotive,Aperture,131.86
+P200231,Initech Home & Kitchen Item 232,Home & Kitchen,Initech,32.28
+P200232,Hooli Automotive Item 233,Automotive,Hooli,108.32
+P200233,Hooli Sports Item 234,Sports,Hooli,107.05
+P200234,Wayne Books Item 235,Books,Wayne,14.2
+P200235,Wonka Grocery & Gourmet Item 236,Grocery & Gourmet,Wonka,18.57
+P200236,Initech Books Item 237,Books,Initech,44.96
+P200237,Aperture Toys & Games Item 238,Toys & Games,Aperture,115.81
+P200238,Aperture Pet Supplies Item 239,Pet Supplies,Aperture,33.97
+P200239,Aperture Pet Supplies Item 240,Pet Supplies,Aperture,47.39
+P200240,Hooli Automotive Item 241,Automotive,Hooli,291.9
+P200241,Acme Beauty Item 242,Beauty,Acme,107.69
+P200242,Umbrella Toys & Games Item 243,Toys & Games,Umbrella,93.53
+P200243,Stark Fashion Item 244,Fashion,Stark,68.45
+P200244,Aperture Pet Supplies Item 245,Pet Supplies,Aperture,48.37
+P200245,Wayne Beauty Item 246,Beauty,Wayne,10.73
+P200246,Wayne Grocery & Gourmet Item 247,Grocery & Gourmet,Wayne,110.63
+P200247,Globex Fashion Item 248,Fashion,Globex,18.2
+P200248,Hooli Grocery & Gourmet Item 249,Grocery & Gourmet,Hooli,5.7
+P200249,Umbrella Home & Kitchen Item 250,Home & Kitchen,Umbrella,110.78
