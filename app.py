@@ -33,19 +33,26 @@ def compute_rfm(orders_df):
 
 def cohort_retention(orders_df):
     df = orders_df.copy()
-    df["order_month"] = df["order_date"].values.astype("datetime64[M]")
+    df["order_month"] = pd.to_datetime(df["order_date"]).dt.to_period("M").dt.to_timestamp()
     first = df.groupby("customer_id")["order_month"].min().rename("cohort")
     df = df.join(first, on="customer_id")
-    cohort_pivot = (df.groupby(["cohort","order_month"])["customer_id"]
-                      .nunique()
-                      .rename("active_customers")
-                      .reset_index())
+    cohort_pivot = (
+        df.groupby(["cohort", "order_month"])["customer_id"]
+        .nunique()
+        .rename("active_customers")
+        .reset_index()
+    )
     cohort_sizes = cohort_pivot.groupby("cohort")["active_customers"].first()
-    cohort_pivot["period"] = ((cohort_pivot["order_month"] - cohort_pivot["cohort"]) / np.timedelta64(1, "M")).round().astype(int)
-    retention = cohort_pivot.pivot(index="cohort", columns="period", values="active_customers").fillna(0)
+    cohort_pivot["period"] = (
+        (cohort_pivot["order_month"].dt.year - cohort_pivot["cohort"].dt.year) * 12
+        + (cohort_pivot["order_month"].dt.month - cohort_pivot["cohort"].dt.month)
+    )
+    retention = cohort_pivot.pivot(
+        index="cohort", columns="period", values="active_customers"
+    ).fillna(0)
     retention = retention.div(cohort_sizes, axis=0).round(3)
     return retention
-
+    
 def kpi_card(label, value, helptext=None):
     st.metric(label, value, help=helptext if helptext else None)
 
