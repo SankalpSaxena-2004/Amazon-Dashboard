@@ -63,11 +63,22 @@ def main():
 
     st.sidebar.header("Filters")
     min_date, max_date = orders["order_date"].min(), orders["order_date"].max()
-    date_range = st.sidebar.date_input("Order Date Range", value=(min_date, max_date), min_value=min_date, max_value=max_date)
+    date_range = st.sidebar.date_input(
+        "Order Date Range",
+        value=(min_date, max_date),
+        min_value=min_date,
+        max_value=max_date,
+        key="date_range"
+        )
+
     if isinstance(date_range, tuple):
         start_date, end_date = pd.to_datetime(date_range[0]), pd.to_datetime(date_range[1])
     else:
         start_date, end_date = min_date, max_date
+
+    if len(date_range) != 2:
+        st.warning("Please select a start and end date")
+        st.stop()
 
     selected_countries = st.sidebar.multiselect("Countries", sorted(orders["country"].unique().tolist()))
     cats = st.sidebar.multiselect("Categories", sorted(products["category"].unique().tolist()))
