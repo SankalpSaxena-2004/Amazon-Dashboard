@@ -67,15 +67,14 @@ def main():
         "Order Date Range",
         value=(min_date, max_date),
         min_value=min_date,
-        max_value=max_date,
-        key="date_range"
+        max_value=max_date
         )
-
-    if isinstance(date_range, tuple):
-        start_date, end_date = pd.to_datetime(date_range[0]), pd.to_datetime(date_range[1])
-    else:
-        start_date, end_date = min_date, max_date
-
+    if not isinstance(date_range, (list, tuple)) or len(date_range) != 2:
+        st.warning("⚠️ Please select both start and end date")
+        st.stop()
+    start_date = pd.to_datetime(date_range[0])
+    end_date = pd.to_datetime(date_range[1])
+    
     if len(date_range) != 2:
         st.warning("Please select a start and end date")
         st.stop()
